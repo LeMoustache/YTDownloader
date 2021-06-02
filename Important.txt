@@ -1,0 +1,3 @@
+Unzip The Icons Folder & 
+Put It In The Same Folder 
+As The .EXE File
